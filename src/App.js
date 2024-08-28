@@ -5,6 +5,7 @@ import { BrowserRouter as Router,Routes,Route } from 'react-router-dom';
 // import ReactDOM from 'react-dom';
 
 
+
 import HomePage from './Components/HomePage';
 import AboutUs from './Components/AboutUs';
 import Orders from './Components/Orders';
@@ -17,9 +18,11 @@ import Footer from './Components/Footer';
 function App() {
   return (
 <Router>
-  <NavBar/>
-  <h1>Golden Crust</h1>
-
+ <NavBar/>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
   <div>
     <Routes>
       <Route path="/"element={<HomePage/>}/>

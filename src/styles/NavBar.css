@@ -1,0 +1,25 @@
+.brand-name{
+  
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+}
+.navbar{
+    background-color:#D1E9F6;
+    padding: 40px;
+}
+.offcanvas-header{
+    background-color: #D1E9F6;
+}
+.offcanvas-title{
+    color: white;
+    font-size: 30px;
+}
+.offcanvas-body{
+    background-color: #D1E9F6;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
