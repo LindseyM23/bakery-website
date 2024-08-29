@@ -31,11 +31,14 @@ function AboutUs() {
       <div class="feature col">
         <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
           {/* <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg> */}
+          
         </div>
         <h3 class="fs-2 text-body-emphasis">Baking Dreams into Reality</h3>
         <p>As we look to the future, Golden Crust Bakery remains committed to innovation while staying true to our roots. We continuously explore new recipes, techniques, and flavors to keep our offerings exciting and fresh. Whether you're stopping by for your morning coffee and croissant or ordering a custom cake for a special occasion, our goal is to exceed your expectations and make every moment memorable. Thank you for choosing Golden Crust Bakery, where every treat is crafted with love and care.</p>
        
       </div>
+
+  
 
       <img src="../Assets/image3.png" class="rounded float-start" alt="pastries" className='images' />
       <img src="../Assets/image5.png" class="rounded float-end" alt="pastries" className='images'/>
