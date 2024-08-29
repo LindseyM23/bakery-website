@@ -67,7 +67,7 @@ function AboutUs() {
       </div>
     </div>
 <h3>Give Us A Visit!</h3>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.085013131915!2d29.37640047628284!3d-23.8511147723031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ec72740b6c9e017%3A0x74937a0a824f4f57!2sSeshego%20Plaza!5e0!3m2!1sen!2sza!4v1724889760414!5m2!1sen!2sza" width="600" height="150"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.085013131915!2d29.37640047628284!3d-23.8511147723031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ec72740b6c9e017%3A0x74937a0a824f4f57!2sSeshego%20Plaza!5e0!3m2!1sen!2sza!4v1724889760414!5m2!1sen!2sza" width="300" height="150"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
   </div>
