@@ -22,9 +22,11 @@ function NavBar() {
           <li class="nav-item">
             <Link to="/" className='link' > <img src="../Assets/home.png" alt="home" width={30} />  Home</Link>
           </li>
+          <br />
           <li class="nav-item">
             <Link to="/about" className='link' > <img src="../Assets/profile.png" alt="aboutUs" width={30} /> About Us</Link>
           </li>
+          <br />
           <li class="nav-item">
           <Link to="/orders" className='link' > <img src="../Assets/menu.png" alt="Menu" width={30} /> Menu</Link>
           </li>

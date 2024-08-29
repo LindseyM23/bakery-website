@@ -1,5 +1,6 @@
 
 import React from 'react';
+import '../styles/HomePage.css'
 
 function HomePage() {
   return (
@@ -11,14 +12,16 @@ function HomePage() {
       <strong>Welcome to Golden Crust Bakery!</strong>
       <br />
       <br />
+      <p>
       At Golden Crust, we believe that every bite should be a delight. 
       <br />
       Whether you're craving freshly baked bread, a decadent pastry, or a custom cake, we have something special just for you. 
       <br />
       Our passion for baking is matched only by our love for bringing smiles to our customers' faces.
       Take a moment to explore our delicious offerings, and feel the warmth and love we put into every recipe. 
-      br
+      <br />
       rom our family to yours, welcome to Golden Crust – where every treat is baked to perfection!
+    </p>
     </div>
 
 

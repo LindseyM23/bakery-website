@@ -1,0 +1,100 @@
+.menu-images{
+    width: 240px;
+    height: 30px;
+}
+.menu-page {
+    padding-top: 50px;
+    text-align: center;
+    margin-top: -100px;
+    background-color: #EECAD5;
+  
+  }
+  
+  .menu-page h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  .menu-section {
+    margin-bottom: 40px;
+  }
+  
+  
+  
+  .menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 8px 0px 50px pink;
+  }
+  
+  .menu-item {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; 
+    box-shadow: 8px 0px 50px pink;
+  }
+  
+  .menu-item:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2); 
+  }
+  
+  .menu-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    
+  }
+  
+  .menu-item p {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item .price {
+    font-size: 1.2em;
+    color: #acd6ec;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item .buy-button {
+    display: inline-block;
+    background-color: #EECAD5 ;
+    color: #fff;
+    border: none;
+    padding: 2px 50px;
+    font-size: 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .menu-item .buy-button:hover {
+    background-color: #D1E9F6;
+    color: white;
+  }
+  
+  .more-items {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .more-items p {
+    font-size: 1.2em;
+    color: #4a4a4a;
+  }

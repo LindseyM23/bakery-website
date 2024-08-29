@@ -1,8 +1,7 @@
 .images{
-    width: 280px;
-    border-radius: 25px;
-    box-shadow: 30px 20px 20px 10px gray;
-    padding: 0px;
-   
+    width: 290px;
 }
-  
+h2{
+    font-family: cursive;
+    font-size: 60px;
+}

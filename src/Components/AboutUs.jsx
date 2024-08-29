@@ -14,7 +14,7 @@ function AboutUs() {
         <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
           {/* <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg> */}
         </div>
-        <h3 class="fs-2 text-body-emphasis">Our Sweet Beginning</h3>
+        <h3 class="fs-2 text-body-emphasis" >Our Sweet Beginning</h3>
         <p>At Golden Crust Bakery, our story begins with a passion for baking that has been passed down through generations. Founded with a love for creating delicious and comforting treats, we take pride in using only the finest ingredients to craft our artisanal bread, pastries, and cakes. Every product we offer is a testament to our commitment to quality, freshness, and the art of baking. Our dedicated team works tirelessly to ensure that each bite is a delightful experience that brings joy to our customers.</p>
         </div>
 
